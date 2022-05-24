@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need to have yarn installed on your machine. For that, simply run:
+You will need to have a custom .env file and yarn installed on your machine. For that, simply run:
 
 ```bash
 yarn
